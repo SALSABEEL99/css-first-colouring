@@ -1,0 +1,41 @@
+body{
+background-image:url(15\ Amazing\ CSS\ Background\ Effects\ -\ 1stWebDesigner\ -\ Best\ of\ the\ best!.jpeg);
+    
+}
+
+
+h1{
+    text-align: center;
+    color:blue;
+    background-color:greenyellow;
+    border-style: dotted;
+    border-color:blue;
+}
+p{
+    font-size: large;
+font-family: Arial, Helvetica, sans-serif;
+background-color: yellowgreen;
+border-style: double;
+border-color: green;
+}
+#one {background-color: yellow;
+    border-style:dotted;
+    border-color:yellow;
+    text-align: center;
+    color: orange;
+    
+
+}
+#two
+{background-color: yellowgreen;
+    border-style:dotted;
+    border-color:aqua;
+    text-align: center;
+    color: blueviolet;
+
+}
+#three{
+    text-align: center;
+background-color: darkolivegreen;
+}
+
